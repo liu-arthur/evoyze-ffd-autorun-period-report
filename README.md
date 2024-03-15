@@ -31,3 +31,5 @@ _ps: If there is existing Node.js, please uninstall before doing the following s
    - `run.bat` - Windows task scheduler to execute this file.
    - `scheduler.xml` - Import task into windows task scheduler.
    - `config/db` - Database config.
+
+4. Make sure get the filename `config.pem` from author so the db file able to decrypt and script able to run properly.
